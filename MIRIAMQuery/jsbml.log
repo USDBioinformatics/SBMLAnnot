@@ -1,0 +1,747 @@
+[17:19:01,765  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[17:19:01,767  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[17:19:01,768 ERROR MiriamLink:125] - Exception occurred during the init of the communication: javax.xml.rpc.ServiceException: Provider com.sun.xml.rpc.client.ServiceFactoryImpl not found
+[17:19:01,769 ERROR MiriamLink:876] - Exception occurred during the Web Services call 'getURI': java.lang.NullPointerException
+[17:19:40,899  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[17:19:40,900  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[17:19:40,902 ERROR MiriamLink:125] - Exception occurred during the init of the communication: javax.xml.rpc.ServiceException: Provider com.sun.xml.rpc.client.ServiceFactoryImpl not found
+[17:19:40,902 ERROR MiriamLink:876] - Exception occurred during the Web Services call 'getURI': java.lang.NullPointerException
+[17:20:17,301  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[17:20:17,303  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[17:20:17,304 ERROR MiriamLink:125] - Exception occurred during the init of the communication: javax.xml.rpc.ServiceException: Provider com.sun.xml.rpc.client.ServiceFactoryImpl not found
+[17:20:17,304 ERROR MiriamLink:876] - Exception occurred during the Web Services call 'getURI': java.lang.NullPointerException
+[17:21:03,519  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[17:21:03,520  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[17:21:03,521 ERROR MiriamLink:125] - Exception occurred during the init of the communication: javax.xml.rpc.ServiceException: Provider com.sun.xml.rpc.client.ServiceFactoryImpl not found
+[17:21:03,522 ERROR MiriamLink:876] - Exception occurred during the Web Services call 'getURI': java.lang.NullPointerException
+[17:21:12,984  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[17:21:12,986  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[17:21:12,987 ERROR MiriamLink:125] - Exception occurred during the init of the communication: javax.xml.rpc.ServiceException: Provider com.sun.xml.rpc.client.ServiceFactoryImpl not found
+[17:21:12,988 ERROR MiriamLink:876] - Exception occurred during the Web Services call 'getURI': java.lang.NullPointerException
+[17:21:26,216  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[17:21:26,217  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[17:21:26,218 ERROR MiriamLink:125] - Exception occurred during the init of the communication: javax.xml.rpc.ServiceException: Provider com.sun.xml.rpc.client.ServiceFactoryImpl not found
+[17:21:26,219 ERROR MiriamLink:876] - Exception occurred during the Web Services call 'getURI': java.lang.NullPointerException
+[17:21:38,180  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[17:21:38,182  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[17:21:38,183 ERROR MiriamLink:125] - Exception occurred during the init of the communication: javax.xml.rpc.ServiceException: Provider com.sun.xml.rpc.client.ServiceFactoryImpl not found
+[17:21:38,184 ERROR MiriamLink:876] - Exception occurred during the Web Services call 'getURI': java.lang.NullPointerException
+[17:21:58,313  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[17:21:58,315  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[17:21:58,316 ERROR MiriamLink:125] - Exception occurred during the init of the communication: javax.xml.rpc.ServiceException: Provider com.sun.xml.rpc.client.ServiceFactoryImpl not found
+[17:21:58,316 ERROR MiriamLink:876] - Exception occurred during the Web Services call 'getURI': java.lang.NullPointerException
+[17:22:05,305  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[17:22:05,307  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[17:22:05,308 ERROR MiriamLink:125] - Exception occurred during the init of the communication: javax.xml.rpc.ServiceException: Provider com.sun.xml.rpc.client.ServiceFactoryImpl not found
+[17:22:05,309 ERROR MiriamLink:876] - Exception occurred during the Web Services call 'getURI': java.lang.NullPointerException
+[17:25:18,426  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[17:25:18,428  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[17:25:18,429 ERROR MiriamLink:125] - Exception occurred during the init of the communication: javax.xml.rpc.ServiceException: Provider com.sun.xml.rpc.client.ServiceFactoryImpl not found
+[17:25:18,430 ERROR MiriamLink:876] - Exception occurred during the Web Services call 'getURI': java.lang.NullPointerException
+[17:25:46,681  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[17:25:46,682  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[17:25:46,684 ERROR MiriamLink:125] - Exception occurred during the init of the communication: javax.xml.rpc.ServiceException: Provider com.sun.xml.rpc.client.ServiceFactoryImpl not found
+[17:25:46,684 ERROR MiriamLink:876] - Exception occurred during the Web Services call 'getURI': java.lang.NullPointerException
+[17:28:58,524  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[17:28:58,526  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[17:28:58,527 ERROR MiriamLink:125] - Exception occurred during the init of the communication: javax.xml.rpc.ServiceException: Provider com.sun.xml.rpc.client.ServiceFactoryImpl not found
+[17:28:58,528 ERROR MiriamLink:876] - Exception occurred during the Web Services call 'getURI': java.lang.NullPointerException
+[17:29:35,439  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[17:29:35,441  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[17:29:35,443 ERROR MiriamLink:125] - Exception occurred during the init of the communication: javax.xml.rpc.ServiceException: Provider com.sun.xml.rpc.client.ServiceFactoryImpl not found
+[17:29:35,444 ERROR MiriamLink:876] - Exception occurred during the Web Services call 'getURI': java.lang.NullPointerException
+[18:03:37,293  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[18:03:37,294  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[18:03:37,296 ERROR MiriamLink:125] - Exception occurred during the init of the communication: javax.xml.rpc.ServiceException: Provider com.sun.xml.rpc.client.ServiceFactoryImpl not found
+[18:03:37,296 ERROR MiriamLink:876] - Exception occurred during the Web Services call 'getURI': java.lang.NullPointerException
+[18:09:29,087  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[18:09:29,089  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[18:09:29,090 ERROR MiriamLink:125] - Exception occurred during the init of the communication: javax.xml.rpc.ServiceException: Provider com.sun.xml.rpc.client.ServiceFactoryImpl not found
+[18:09:29,091 ERROR MiriamLink:876] - Exception occurred during the Web Services call 'getURI': java.lang.NullPointerException
+[18:14:49,956  INFO MiriamLink:116] - Address used: http://www.ebi.ac.uk/compneur-srv/miriamws-main/MiriamWebServices
+[18:14:49,958  INFO MiriamLink:117] - If this address is not correct, use 'setAddress()' to change it.
+[18:14:49,960 ERROR MiriamLink:130] - Exception occurred during the init of the communication: javax.xml.rpc.ServiceException: Provider com.sun.xml.rpc.client.ServiceFactoryImpl not found
+[18:14:49,961 ERROR MiriamLink:746] - Exception occurred during the call of the Web Services: java.lang.NullPointerException
+[18:15:42,661  INFO MiriamLink:116] - Address used: http://www.ebi.ac.uk/compneur-srv/miriamws-main/MiriamWebServices
+[18:15:42,663  INFO MiriamLink:117] - If this address is not correct, use 'setAddress()' to change it.
+[18:15:42,666 ERROR MiriamLink:130] - Exception occurred during the init of the communication: javax.xml.rpc.ServiceException: Provider com.sun.xml.rpc.client.ServiceFactoryImpl not found
+[18:15:42,667 ERROR MiriamLink:747] - Exception occurred during the call of the Web Services: java.lang.NullPointerException
+[18:20:57,534  INFO MiriamLink:117] - Address used: http://www.ebi.ac.uk/compneur-srv/miriamws-main/MiriamWebServices
+[18:20:57,535  INFO MiriamLink:118] - If this address is not correct, use 'setAddress()' to change it.
+[18:20:57,538 ERROR MiriamLink:131] - Exception occurred during the init of the communication: javax.xml.rpc.ServiceException: Provider com.sun.xml.rpc.client.ServiceFactoryImpl not found
+[18:20:57,538 ERROR MiriamLink:748] - Exception occurred during the call of the Web Services: java.lang.NullPointerException
+[18:21:13,116  INFO MiriamLink:117] - Address used: http://www.ebi.ac.uk/compneur-srv/miriamws-main/MiriamWebServices
+[18:21:13,118  INFO MiriamLink:118] - If this address is not correct, use 'setAddress()' to change it.
+[18:21:13,120 ERROR MiriamLink:131] - Exception occurred during the init of the communication: javax.xml.rpc.ServiceException: Provider com.sun.xml.rpc.client.ServiceFactoryImpl not found
+[18:21:13,121 ERROR MiriamLink:749] - Exception occurred during the call of the Web Services: java.lang.NullPointerException
+[18:21:54,884  INFO MiriamLink:117] - Address used: http://www.ebi.ac.uk/compneur-srv/miriamws-main/MiriamWebServices
+[18:21:54,885  INFO MiriamLink:118] - If this address is not correct, use 'setAddress()' to change it.
+[18:21:54,888 ERROR MiriamLink:131] - Exception occurred during the init of the communication: javax.xml.rpc.ServiceException: Provider com.sun.xml.rpc.client.ServiceFactoryImpl not found
+[18:21:54,889 ERROR MiriamLink:749] - Exception occurred during the call of the Web Services: java.lang.NullPointerException
+[18:23:13,196  INFO MiriamLink:117] - Address used: http://www.ebi.ac.uk/compneur-srv/miriamws-main/MiriamWebServices
+[18:23:13,198  INFO MiriamLink:118] - If this address is not correct, use 'setAddress()' to change it.
+[18:23:13,200 ERROR MiriamLink:131] - Exception occurred during the init of the communication: javax.xml.rpc.ServiceException: Provider com.sun.xml.rpc.client.ServiceFactoryImpl not found
+[18:23:13,201 ERROR MiriamLink:752] - Exception occurred during the call of the Web Services: java.lang.NullPointerException
+[17:36:32,284  INFO MiriamLink:117] - Address used: http://www.ebi.ac.uk/compneur-srv/miriamws-main/MiriamWebServices
+[17:36:32,286  INFO MiriamLink:118] - If this address is not correct, use 'setAddress()' to change it.
+[17:36:32,289 ERROR MiriamLink:131] - Exception occurred during the init of the communication: javax.xml.rpc.ServiceException: Provider com.sun.xml.rpc.client.ServiceFactoryImpl not found
+[17:36:32,289 ERROR MiriamLink:752] - Exception occurred during the call of the Web Services: java.lang.NullPointerException
+[17:37:43,510  INFO MiriamLink:117] - Address used: http://www.ebi.ac.uk/compneur-srv/miriamws-main/MiriamWebServices
+[17:37:43,511  INFO MiriamLink:118] - If this address is not correct, use 'setAddress()' to change it.
+[17:37:43,514 ERROR MiriamLink:131] - Exception occurred during the init of the communication: javax.xml.rpc.ServiceException: Provider com.sun.xml.rpc.client.ServiceFactoryImpl not found
+[17:37:43,515 ERROR MiriamLink:752] - Exception occurred during the call of the Web Services: java.lang.NullPointerException
+[17:40:17,892  INFO MiriamLink:117] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[17:40:17,893  INFO MiriamLink:118] - If this address is not correct, use 'setAddress()' to change it.
+[17:40:17,896 ERROR MiriamLink:131] - Exception occurred during the init of the communication: javax.xml.rpc.ServiceException: Provider com.sun.xml.rpc.client.ServiceFactoryImpl not found
+[17:40:17,897 ERROR MiriamLink:752] - Exception occurred during the call of the Web Services: java.lang.NullPointerException
+[17:48:10,449  INFO MiriamLink:117] - Address used: http://www.ebi.ac.uk/compneur-srv/miriamws-main/MiriamWebServices
+[17:48:10,451  INFO MiriamLink:118] - If this address is not correct, use 'setAddress()' to change it.
+[17:48:10,453 ERROR MiriamLink:131] - Exception occurred during the init of the communication: javax.xml.rpc.ServiceException: Provider com.sun.xml.rpc.client.ServiceFactoryImpl not found
+[17:48:10,454 ERROR MiriamLink:752] - Exception occurred during the call of the Web Services: java.lang.NullPointerException
+[17:49:14,722  INFO MiriamLink:117] - Address used: http://www.ebi.ac.uk/compneur-srv/miriamws-main/MiriamWebServices
+[17:49:14,724  INFO MiriamLink:118] - If this address is not correct, use 'setAddress()' to change it.
+[17:49:14,726 ERROR MiriamLink:131] - Exception occurred during the init of the communication: javax.xml.rpc.ServiceException: Provider com.sun.xml.rpc.client.ServiceFactoryImpl not found
+[17:49:14,727 ERROR MiriamLink:711] - Exception occurred during the call of the Web Services: java.lang.NullPointerException
+[17:49:14,727  INFO MiriamLink:117] - Address used: http://www.ebi.ac.uk/compneur-srv/miriamws-main/MiriamWebServices
+[17:49:14,727  INFO MiriamLink:118] - If this address is not correct, use 'setAddress()' to change it.
+[17:49:14,728 ERROR MiriamLink:131] - Exception occurred during the init of the communication: javax.xml.rpc.ServiceException: Provider com.sun.xml.rpc.client.ServiceFactoryImpl not found
+[17:49:14,728 ERROR MiriamLink:752] - Exception occurred during the call of the Web Services: java.lang.NullPointerException
+[17:49:52,745  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[17:49:52,747  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[17:49:52,748 ERROR MiriamLink:125] - Exception occurred during the init of the communication: javax.xml.rpc.ServiceException: Provider com.sun.xml.rpc.client.ServiceFactoryImpl not found
+[17:49:52,749 ERROR MiriamLink:840] - Exception occurred during the Web Services call 'getResourceInfo': java.lang.NullPointerException
+[17:49:52,749  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[17:49:52,749  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[17:49:52,750 ERROR MiriamLink:125] - Exception occurred during the init of the communication: javax.xml.rpc.ServiceException: Provider com.sun.xml.rpc.client.ServiceFactoryImpl not found
+[17:49:52,750 ERROR MiriamLink:876] - Exception occurred during the Web Services call 'getURI': java.lang.NullPointerException
+[17:50:16,096  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[17:50:16,098  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[17:50:16,099 ERROR MiriamLink:125] - Exception occurred during the init of the communication: javax.xml.rpc.ServiceException: Provider com.sun.xml.rpc.client.ServiceFactoryImpl not found
+[17:50:16,100 ERROR MiriamLink:840] - Exception occurred during the Web Services call 'getResourceInfo': java.lang.NullPointerException
+[17:50:16,100  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[17:50:16,100  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[17:50:16,101 ERROR MiriamLink:125] - Exception occurred during the init of the communication: javax.xml.rpc.ServiceException: Provider com.sun.xml.rpc.client.ServiceFactoryImpl not found
+[17:50:16,101 ERROR MiriamLink:876] - Exception occurred during the Web Services call 'getURI': java.lang.NullPointerException
+[17:50:28,325  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[17:50:28,327  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[17:50:28,328 ERROR MiriamLink:125] - Exception occurred during the init of the communication: javax.xml.rpc.ServiceException: Provider com.sun.xml.rpc.client.ServiceFactoryImpl not found
+[17:50:28,329 ERROR MiriamLink:840] - Exception occurred during the Web Services call 'getResourceInfo': java.lang.NullPointerException
+[17:50:28,329  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[17:50:28,329  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[17:50:28,330 ERROR MiriamLink:125] - Exception occurred during the init of the communication: javax.xml.rpc.ServiceException: Provider com.sun.xml.rpc.client.ServiceFactoryImpl not found
+[17:50:28,330 ERROR MiriamLink:876] - Exception occurred during the Web Services call 'getURI': java.lang.NullPointerException
+[17:55:41,244  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[17:55:41,246  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[17:55:41,247 ERROR MiriamLink:125] - Exception occurred during the init of the communication: javax.xml.rpc.ServiceException: Provider com.sun.xml.rpc.client.ServiceFactoryImpl not found
+[17:55:41,248 ERROR MiriamLink:984] - Exception occurred during the Web Services call 'getLocations': java.lang.NullPointerException
+[17:55:41,248  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[17:55:41,249  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[17:55:41,249 ERROR MiriamLink:125] - Exception occurred during the init of the communication: javax.xml.rpc.ServiceException: Provider com.sun.xml.rpc.client.ServiceFactoryImpl not found
+[17:55:41,249 ERROR MiriamLink:840] - Exception occurred during the Web Services call 'getResourceInfo': java.lang.NullPointerException
+[17:55:41,250  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[17:55:41,250  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[17:55:41,250 ERROR MiriamLink:125] - Exception occurred during the init of the communication: javax.xml.rpc.ServiceException: Provider com.sun.xml.rpc.client.ServiceFactoryImpl not found
+[17:55:41,250 ERROR MiriamLink:876] - Exception occurred during the Web Services call 'getURI': java.lang.NullPointerException
+[17:55:59,389  INFO MiriamLink:117] - Address used: http://www.ebi.ac.uk/compneur-srv/miriamws-main/MiriamWebServices
+[17:55:59,391  INFO MiriamLink:118] - If this address is not correct, use 'setAddress()' to change it.
+[17:55:59,393 ERROR MiriamLink:131] - Exception occurred during the init of the communication: javax.xml.rpc.ServiceException: Provider com.sun.xml.rpc.client.ServiceFactoryImpl not found
+[17:55:59,394 ERROR MiriamLink:861] - Exception occurred during the call of the Web Services: java.lang.NullPointerException
+[17:55:59,394  INFO MiriamLink:117] - Address used: http://www.ebi.ac.uk/compneur-srv/miriamws-main/MiriamWebServices
+[17:55:59,394  INFO MiriamLink:118] - If this address is not correct, use 'setAddress()' to change it.
+[17:55:59,395 ERROR MiriamLink:131] - Exception occurred during the init of the communication: javax.xml.rpc.ServiceException: Provider com.sun.xml.rpc.client.ServiceFactoryImpl not found
+[17:55:59,395 ERROR MiriamLink:711] - Exception occurred during the call of the Web Services: java.lang.NullPointerException
+[17:55:59,395  INFO MiriamLink:117] - Address used: http://www.ebi.ac.uk/compneur-srv/miriamws-main/MiriamWebServices
+[17:55:59,396  INFO MiriamLink:118] - If this address is not correct, use 'setAddress()' to change it.
+[17:55:59,396 ERROR MiriamLink:131] - Exception occurred during the init of the communication: javax.xml.rpc.ServiceException: Provider com.sun.xml.rpc.client.ServiceFactoryImpl not found
+[17:55:59,396 ERROR MiriamLink:752] - Exception occurred during the call of the Web Services: java.lang.NullPointerException
+[17:57:58,651  INFO MiriamLink:117] - Address used: http://www.ebi.ac.uk/compneur-srv/miriamws-main/MiriamWebServices
+[17:57:58,653  INFO MiriamLink:118] - If this address is not correct, use 'setAddress()' to change it.
+[17:57:58,655 ERROR MiriamLink:131] - Exception occurred during the init of the communication: javax.xml.rpc.ServiceException: Provider com.sun.xml.rpc.client.ServiceFactoryImpl not found
+[17:57:58,656 ERROR MiriamLink:862] - Exception occurred during the call of the Web Services: java.lang.NullPointerException
+[17:57:58,657  INFO MiriamLink:117] - Address used: http://www.ebi.ac.uk/compneur-srv/miriamws-main/MiriamWebServices
+[17:57:58,657  INFO MiriamLink:118] - If this address is not correct, use 'setAddress()' to change it.
+[17:57:58,657 ERROR MiriamLink:131] - Exception occurred during the init of the communication: javax.xml.rpc.ServiceException: Provider com.sun.xml.rpc.client.ServiceFactoryImpl not found
+[17:57:58,658 ERROR MiriamLink:712] - Exception occurred during the call of the Web Services: java.lang.NullPointerException
+[17:57:58,658  INFO MiriamLink:117] - Address used: http://www.ebi.ac.uk/compneur-srv/miriamws-main/MiriamWebServices
+[17:57:58,658  INFO MiriamLink:118] - If this address is not correct, use 'setAddress()' to change it.
+[17:57:58,659 ERROR MiriamLink:131] - Exception occurred during the init of the communication: javax.xml.rpc.ServiceException: Provider com.sun.xml.rpc.client.ServiceFactoryImpl not found
+[17:57:58,659 ERROR MiriamLink:753] - Exception occurred during the call of the Web Services: java.lang.NullPointerException
+[18:06:26,708  INFO MiriamLink:117] - Address used: http://www.ebi.ac.uk/compneur-srv/miriamws-main/MiriamWebServices
+[18:06:26,710  INFO MiriamLink:118] - If this address is not correct, use 'setAddress()' to change it.
+[18:06:26,713 ERROR MiriamLink:131] - Exception occurred during the init of the communication: javax.xml.rpc.ServiceException: Provider com.sun.xml.rpc.client.ServiceFactoryImpl not found
+[18:06:26,714 ERROR MiriamLink:862] - Exception occurred during the call of the Web Services: java.lang.NullPointerException
+[18:06:26,714  INFO MiriamLink:117] - Address used: http://www.ebi.ac.uk/compneur-srv/miriamws-main/MiriamWebServices
+[18:06:26,714  INFO MiriamLink:118] - If this address is not correct, use 'setAddress()' to change it.
+[18:06:26,715 ERROR MiriamLink:131] - Exception occurred during the init of the communication: javax.xml.rpc.ServiceException: Provider com.sun.xml.rpc.client.ServiceFactoryImpl not found
+[18:06:26,715 ERROR MiriamLink:712] - Exception occurred during the call of the Web Services: java.lang.NullPointerException
+[18:06:26,715  INFO MiriamLink:117] - Address used: http://www.ebi.ac.uk/compneur-srv/miriamws-main/MiriamWebServices
+[18:06:26,715  INFO MiriamLink:118] - If this address is not correct, use 'setAddress()' to change it.
+[18:06:26,716 ERROR MiriamLink:131] - Exception occurred during the init of the communication: javax.xml.rpc.ServiceException: Provider com.sun.xml.rpc.client.ServiceFactoryImpl not found
+[18:06:26,716 ERROR MiriamLink:753] - Exception occurred during the call of the Web Services: java.lang.NullPointerException
+[19:12:37,475  INFO MiriamLink:117] - Address used: http://www.ebi.ac.uk/compneur-srv/miriamws-main/MiriamWebServices
+[19:12:37,476  INFO MiriamLink:118] - If this address is not correct, use 'setAddress()' to change it.
+[19:12:37,479 ERROR MiriamLink:131] - Exception occurred during the init of the communication: javax.xml.rpc.ServiceException: Provider com.sun.xml.rpc.client.ServiceFactoryImpl not found
+[19:12:37,480 ERROR MiriamLink:862] - Exception occurred during the call of the Web Services: java.lang.NullPointerException
+[19:12:37,481  INFO MiriamLink:117] - Address used: http://www.ebi.ac.uk/compneur-srv/miriamws-main/MiriamWebServices
+[19:12:37,481  INFO MiriamLink:118] - If this address is not correct, use 'setAddress()' to change it.
+[19:12:37,481 ERROR MiriamLink:131] - Exception occurred during the init of the communication: javax.xml.rpc.ServiceException: Provider com.sun.xml.rpc.client.ServiceFactoryImpl not found
+[19:12:37,482 ERROR MiriamLink:712] - Exception occurred during the call of the Web Services: java.lang.NullPointerException
+[19:12:37,482  INFO MiriamLink:117] - Address used: http://www.ebi.ac.uk/compneur-srv/miriamws-main/MiriamWebServices
+[19:12:37,482  INFO MiriamLink:118] - If this address is not correct, use 'setAddress()' to change it.
+[19:12:37,483 ERROR MiriamLink:131] - Exception occurred during the init of the communication: javax.xml.rpc.ServiceException: Provider com.sun.xml.rpc.client.ServiceFactoryImpl not found
+[19:12:37,483 ERROR MiriamLink:753] - Exception occurred during the call of the Web Services: java.lang.NullPointerException
+[19:34:37,636  INFO MiriamLink:117] - Address used: http://www.ebi.ac.uk/compneur-srv/miriamws-main/MiriamWebServices
+[19:34:37,638  INFO MiriamLink:118] - If this address is not correct, use 'setAddress()' to change it.
+[19:34:37,640 ERROR MiriamLink:131] - Exception occurred during the init of the communication: javax.xml.rpc.ServiceException: Provider com.sun.xml.rpc.client.ServiceFactoryImpl not found
+[19:34:37,641 ERROR MiriamLink:862] - Exception occurred during the call of the Web Services: java.lang.NullPointerException
+[19:34:37,641  INFO MiriamLink:117] - Address used: http://www.ebi.ac.uk/compneur-srv/miriamws-main/MiriamWebServices
+[19:34:37,641  INFO MiriamLink:118] - If this address is not correct, use 'setAddress()' to change it.
+[19:34:37,642 ERROR MiriamLink:131] - Exception occurred during the init of the communication: javax.xml.rpc.ServiceException: Provider com.sun.xml.rpc.client.ServiceFactoryImpl not found
+[19:34:37,642 ERROR MiriamLink:712] - Exception occurred during the call of the Web Services: java.lang.NullPointerException
+[19:34:37,643  INFO MiriamLink:117] - Address used: http://www.ebi.ac.uk/compneur-srv/miriamws-main/MiriamWebServices
+[19:34:37,643  INFO MiriamLink:118] - If this address is not correct, use 'setAddress()' to change it.
+[19:34:37,643 ERROR MiriamLink:131] - Exception occurred during the init of the communication: javax.xml.rpc.ServiceException: Provider com.sun.xml.rpc.client.ServiceFactoryImpl not found
+[19:34:37,644 ERROR MiriamLink:753] - Exception occurred during the call of the Web Services: java.lang.NullPointerException
+[19:37:33,678  INFO MiriamLink:117] - Address used: http://www.ebi.ac.uk/compneur-srv/miriamws-main/MiriamWebServices
+[19:37:33,680  INFO MiriamLink:118] - If this address is not correct, use 'setAddress()' to change it.
+[19:41:00,562  INFO MiriamLink:117] - Address used: http://www.ebi.ac.uk/compneur-srv/miriamws-main/MiriamWebServices
+[19:41:00,563  INFO MiriamLink:118] - If this address is not correct, use 'setAddress()' to change it.
+[19:41:00,566 ERROR MiriamLink:131] - Exception occurred during the init of the communication: javax.xml.rpc.ServiceException: Provider com.sun.xml.rpc.client.ServiceFactoryImpl not found
+[19:41:00,567 ERROR MiriamLink:862] - Exception occurred during the call of the Web Services: java.lang.NullPointerException
+[19:41:00,567  INFO MiriamLink:117] - Address used: http://www.ebi.ac.uk/compneur-srv/miriamws-main/MiriamWebServices
+[19:41:00,567  INFO MiriamLink:118] - If this address is not correct, use 'setAddress()' to change it.
+[19:41:00,568 ERROR MiriamLink:131] - Exception occurred during the init of the communication: javax.xml.rpc.ServiceException: Provider com.sun.xml.rpc.client.ServiceFactoryImpl not found
+[19:41:00,568 ERROR MiriamLink:712] - Exception occurred during the call of the Web Services: java.lang.NullPointerException
+[19:41:00,569  INFO MiriamLink:117] - Address used: http://www.ebi.ac.uk/compneur-srv/miriamws-main/MiriamWebServices
+[19:41:00,569  INFO MiriamLink:118] - If this address is not correct, use 'setAddress()' to change it.
+[19:41:00,569 ERROR MiriamLink:131] - Exception occurred during the init of the communication: javax.xml.rpc.ServiceException: Provider com.sun.xml.rpc.client.ServiceFactoryImpl not found
+[19:41:00,570 ERROR MiriamLink:753] - Exception occurred during the call of the Web Services: java.lang.NullPointerException
+[19:41:58,800  INFO MiriamLink:117] - Address used: http://www.ebi.ac.uk/compneur-srv/miriamws-main/MiriamWebServices
+[19:41:58,801  INFO MiriamLink:118] - If this address is not correct, use 'setAddress()' to change it.
+[19:44:19,265  INFO MiriamLink:117] - Address used: http://www.ebi.ac.uk/compneur-srv/miriamws-main/MiriamWebServices
+[19:44:19,267  INFO MiriamLink:118] - If this address is not correct, use 'setAddress()' to change it.
+[19:46:19,871  INFO MiriamLink:117] - Address used: http://www.ebi.ac.uk/compneur-srv/miriamws-main/MiriamWebServices
+[19:46:19,872  INFO MiriamLink:118] - If this address is not correct, use 'setAddress()' to change it.
+[19:48:18,349  INFO MiriamLink:117] - Address used: http://www.ebi.ac.uk/compneur-srv/miriamws-main/MiriamWebServices
+[19:48:18,350  INFO MiriamLink:118] - If this address is not correct, use 'setAddress()' to change it.
+[19:51:33,251  INFO MiriamLink:117] - Address used: http://www.ebi.ac.uk/compneur-srv/miriamws-main/MiriamWebServices
+[19:51:33,253  INFO MiriamLink:118] - If this address is not correct, use 'setAddress()' to change it.
+[19:51:33,495 ERROR MiriamLink:862] - Exception occurred during the call of the Web Services: operation style: "rpc" not supported
+[19:51:33,496  INFO MiriamLink:117] - Address used: http://www.ebi.ac.uk/compneur-srv/miriamws-main/MiriamWebServices
+[19:51:33,496  INFO MiriamLink:118] - If this address is not correct, use 'setAddress()' to change it.
+[19:51:33,498 ERROR MiriamLink:712] - Exception occurred during the call of the Web Services: operation style: "rpc" not supported
+[19:51:33,498  INFO MiriamLink:117] - Address used: http://www.ebi.ac.uk/compneur-srv/miriamws-main/MiriamWebServices
+[19:51:33,498  INFO MiriamLink:118] - If this address is not correct, use 'setAddress()' to change it.
+[19:51:33,500 ERROR MiriamLink:753] - Exception occurred during the call of the Web Services: operation style: "rpc" not supported
+[19:52:51,452  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[19:52:51,454  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[19:52:51,680 ERROR MiriamLink:984] - Exception occurred during the Web Services call 'getLocations': operation style: "rpc" not supported
+[19:52:51,681  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[19:52:51,681  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[19:52:51,682 ERROR MiriamLink:840] - Exception occurred during the Web Services call 'getResourceInfo': operation style: "rpc" not supported
+[19:52:51,683  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[19:52:51,683  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[19:52:51,684 ERROR MiriamLink:876] - Exception occurred during the Web Services call 'getURI': operation style: "rpc" not supported
+[19:53:03,162  INFO MiriamLink:117] - Address used: http://www.ebi.ac.uk/compneur-srv/miriamws-main/MiriamWebServices
+[19:53:03,164  INFO MiriamLink:118] - If this address is not correct, use 'setAddress()' to change it.
+[19:53:03,392 ERROR MiriamLink:862] - Exception occurred during the call of the Web Services: operation style: "rpc" not supported
+[19:53:03,392  INFO MiriamLink:117] - Address used: http://www.ebi.ac.uk/compneur-srv/miriamws-main/MiriamWebServices
+[19:53:03,392  INFO MiriamLink:118] - If this address is not correct, use 'setAddress()' to change it.
+[19:53:03,394 ERROR MiriamLink:712] - Exception occurred during the call of the Web Services: operation style: "rpc" not supported
+[19:53:03,394  INFO MiriamLink:117] - Address used: http://www.ebi.ac.uk/compneur-srv/miriamws-main/MiriamWebServices
+[19:53:03,394  INFO MiriamLink:118] - If this address is not correct, use 'setAddress()' to change it.
+[19:53:03,396 ERROR MiriamLink:753] - Exception occurred during the call of the Web Services: operation style: "rpc" not supported
+[20:08:19,841  INFO MiriamLink:117] - Address used: http://www.ebi.ac.uk/compneur-srv/miriamws-main/MiriamWebServices
+[20:08:19,842  INFO MiriamLink:118] - If this address is not correct, use 'setAddress()' to change it.
+[20:08:19,845 ERROR MiriamLink:131] - Exception occurred during the init of the communication: javax.xml.rpc.ServiceException: java.lang.ClassNotFoundException: org.apache.axis.client.ServiceFactory
+[20:08:19,846 ERROR MiriamLink:862] - Exception occurred during the call of the Web Services: java.lang.NullPointerException
+[20:08:19,846  INFO MiriamLink:117] - Address used: http://www.ebi.ac.uk/compneur-srv/miriamws-main/MiriamWebServices
+[20:08:19,846  INFO MiriamLink:118] - If this address is not correct, use 'setAddress()' to change it.
+[20:08:19,847 ERROR MiriamLink:131] - Exception occurred during the init of the communication: javax.xml.rpc.ServiceException: java.lang.ClassNotFoundException: org.apache.axis.client.ServiceFactory
+[20:08:19,847 ERROR MiriamLink:712] - Exception occurred during the call of the Web Services: java.lang.NullPointerException
+[20:08:19,848  INFO MiriamLink:117] - Address used: http://www.ebi.ac.uk/compneur-srv/miriamws-main/MiriamWebServices
+[20:08:19,848  INFO MiriamLink:118] - If this address is not correct, use 'setAddress()' to change it.
+[20:08:19,848 ERROR MiriamLink:131] - Exception occurred during the init of the communication: javax.xml.rpc.ServiceException: java.lang.ClassNotFoundException: org.apache.axis.client.ServiceFactory
+[20:08:19,849 ERROR MiriamLink:753] - Exception occurred during the call of the Web Services: java.lang.NullPointerException
+[20:11:37,603  INFO MiriamLink:117] - Address used: http://www.ebi.ac.uk/compneur-srv/miriamws-main/MiriamWebServices
+[20:11:37,605  INFO MiriamLink:118] - If this address is not correct, use 'setAddress()' to change it.
+[20:11:37,607 ERROR MiriamLink:131] - Exception occurred during the init of the communication: javax.xml.rpc.ServiceException: java.lang.ClassNotFoundException: org.apache.axis.client.ServiceFactory
+[20:11:37,608 ERROR MiriamLink:862] - Exception occurred during the call of the Web Services: java.lang.NullPointerException
+[20:11:37,608  INFO MiriamLink:117] - Address used: http://www.ebi.ac.uk/compneur-srv/miriamws-main/MiriamWebServices
+[20:11:37,608  INFO MiriamLink:118] - If this address is not correct, use 'setAddress()' to change it.
+[20:11:37,609 ERROR MiriamLink:131] - Exception occurred during the init of the communication: javax.xml.rpc.ServiceException: java.lang.ClassNotFoundException: org.apache.axis.client.ServiceFactory
+[20:11:37,609 ERROR MiriamLink:712] - Exception occurred during the call of the Web Services: java.lang.NullPointerException
+[20:11:37,610  INFO MiriamLink:117] - Address used: http://www.ebi.ac.uk/compneur-srv/miriamws-main/MiriamWebServices
+[20:11:37,610  INFO MiriamLink:118] - If this address is not correct, use 'setAddress()' to change it.
+[20:11:37,611 ERROR MiriamLink:131] - Exception occurred during the init of the communication: javax.xml.rpc.ServiceException: java.lang.ClassNotFoundException: org.apache.axis.client.ServiceFactory
+[20:11:37,611 ERROR MiriamLink:753] - Exception occurred during the call of the Web Services: java.lang.NullPointerException
+[20:12:18,254  INFO MiriamLink:117] - Address used: http://www.ebi.ac.uk/compneur-srv/miriamws-main/MiriamWebServices
+[20:12:18,256  INFO MiriamLink:118] - If this address is not correct, use 'setAddress()' to change it.
+[20:14:41,586  INFO MiriamLink:117] - Address used: http://www.ebi.ac.uk/compneur-srv/miriamws-main/MiriamWebServices
+[20:14:41,588  INFO MiriamLink:118] - If this address is not correct, use 'setAddress()' to change it.
+[20:16:12,151  INFO MiriamLink:117] - Address used: http://www.ebi.ac.uk/compneur-srv/miriamws-main/MiriamWebServices
+[20:16:12,153  INFO MiriamLink:118] - If this address is not correct, use 'setAddress()' to change it.
+[20:18:25,842  INFO MiriamLink:117] - Address used: http://www.ebi.ac.uk/compneur-srv/miriamws-main/MiriamWebServices
+[20:18:25,843  INFO MiriamLink:118] - If this address is not correct, use 'setAddress()' to change it.
+[20:18:27,357  INFO MiriamLink:117] - Address used: http://www.ebi.ac.uk/compneur-srv/miriamws-main/MiriamWebServices
+[20:18:27,357  INFO MiriamLink:118] - If this address is not correct, use 'setAddress()' to change it.
+[20:18:27,739  INFO MiriamLink:117] - Address used: http://www.ebi.ac.uk/compneur-srv/miriamws-main/MiriamWebServices
+[20:18:27,740  INFO MiriamLink:118] - If this address is not correct, use 'setAddress()' to change it.
+[20:21:13,203  INFO MiriamLink:117] - Address used: http://www.ebi.ac.uk/compneur-srv/miriamws-main/MiriamWebServices
+[20:21:13,205  INFO MiriamLink:118] - If this address is not correct, use 'setAddress()' to change it.
+[20:21:14,099  INFO MiriamLink:117] - Address used: http://www.ebi.ac.uk/compneur-srv/miriamws-main/MiriamWebServices
+[20:21:14,100  INFO MiriamLink:118] - If this address is not correct, use 'setAddress()' to change it.
+[20:21:14,426  INFO MiriamLink:117] - Address used: http://www.ebi.ac.uk/compneur-srv/miriamws-main/MiriamWebServices
+[20:21:14,426  INFO MiriamLink:118] - If this address is not correct, use 'setAddress()' to change it.
+[20:23:13,171  INFO MiriamLink:117] - Address used: http://www.ebi.ac.uk/compneur-srv/miriamws-main/MiriamWebServices
+[20:23:13,172  INFO MiriamLink:118] - If this address is not correct, use 'setAddress()' to change it.
+[20:23:14,099  INFO MiriamLink:117] - Address used: http://www.ebi.ac.uk/compneur-srv/miriamws-main/MiriamWebServices
+[20:23:14,099  INFO MiriamLink:118] - If this address is not correct, use 'setAddress()' to change it.
+[20:23:14,701  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[20:23:14,702  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[20:24:01,574  INFO MiriamLink:117] - Address used: http://www.ebi.ac.uk/compneur-srv/miriamws-main/MiriamWebServices
+[20:24:01,575  INFO MiriamLink:118] - If this address is not correct, use 'setAddress()' to change it.
+[20:24:02,601  INFO MiriamLink:117] - Address used: http://www.ebi.ac.uk/compneur-srv/miriamws-main/MiriamWebServices
+[20:24:02,601  INFO MiriamLink:118] - If this address is not correct, use 'setAddress()' to change it.
+[20:24:03,247  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[20:24:03,247  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[09:28:21,435  INFO MiriamLink:117] - Address used: http://www.ebi.ac.uk/compneur-srv/miriamws-main/MiriamWebServices
+[09:28:21,435  INFO MiriamLink:118] - If this address is not correct, use 'setAddress()' to change it.
+[09:28:22,668  INFO MiriamLink:117] - Address used: http://www.ebi.ac.uk/compneur-srv/miriamws-main/MiriamWebServices
+[09:28:22,668  INFO MiriamLink:118] - If this address is not correct, use 'setAddress()' to change it.
+[09:28:23,308  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[09:28:23,308  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[10:47:19,305  INFO MiriamLink:117] - Address used: http://www.ebi.ac.uk/compneur-srv/miriamws-main/MiriamWebServices
+[10:47:19,305  INFO MiriamLink:118] - If this address is not correct, use 'setAddress()' to change it.
+[10:47:20,522  INFO MiriamLink:117] - Address used: http://www.ebi.ac.uk/compneur-srv/miriamws-main/MiriamWebServices
+[10:47:20,522  INFO MiriamLink:118] - If this address is not correct, use 'setAddress()' to change it.
+[10:47:21,130  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[10:47:21,130  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[11:09:50,827  INFO MiriamLink:52] - Address used: http://www.ebi.ac.uk/compneur-srv/miriamws-main/MiriamWebServices
+[11:09:50,827  INFO MiriamLink:53] - If this address is not correct, use 'setAddress()' to change it.
+[11:09:52,059  INFO MiriamLink:52] - Address used: http://www.ebi.ac.uk/compneur-srv/miriamws-main/MiriamWebServices
+[11:09:52,059  INFO MiriamLink:53] - If this address is not correct, use 'setAddress()' to change it.
+[11:09:52,699  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[11:09:52,699  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[11:10:27,487  INFO MiriamLink:52] - Address used: http://www.ebi.ac.uk/compneur-srv/miriamws-main/MiriamWebServices
+[11:10:27,487  INFO MiriamLink:53] - If this address is not correct, use 'setAddress()' to change it.
+[11:10:28,377  INFO MiriamLink:52] - Address used: http://www.ebi.ac.uk/compneur-srv/miriamws-main/MiriamWebServices
+[11:10:28,377  INFO MiriamLink:53] - If this address is not correct, use 'setAddress()' to change it.
+[11:10:29,001  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[11:10:29,001  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[11:10:51,465  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[11:10:51,465  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[11:10:52,292  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[11:10:52,292  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[11:10:52,651  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[11:10:52,651  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[11:13:20,120  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[11:13:20,120  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[11:13:20,931  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[11:13:20,931  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[11:13:21,290  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[11:13:21,290  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[11:13:33,661  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[11:13:33,661  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[11:13:34,457  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[11:13:34,457  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[11:13:34,816  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[11:13:34,816  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[11:13:35,159  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[11:13:35,159  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[11:13:35,518  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[11:13:35,518  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[11:14:02,693  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[11:14:02,693  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[11:14:03,536  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[11:14:03,536  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[11:14:03,894  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[11:14:03,894  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[11:14:04,269  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[11:14:04,269  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[11:14:04,596  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[11:14:04,596  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[11:14:10,181  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[11:14:10,181  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[11:14:10,852  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[11:14:10,852  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[11:14:11,180  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[11:14:11,180  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[11:14:11,523  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[11:14:11,523  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[11:19:33,621  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[11:19:33,621  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[11:19:34,620  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[11:19:34,620  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[11:19:34,978  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[11:19:34,978  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[11:19:35,353  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[11:19:35,353  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[11:19:44,184  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[11:19:44,184  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[11:19:44,886  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[11:19:44,886  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[11:19:45,213  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[11:19:45,213  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[11:19:45,556  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[11:19:45,556  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[11:19:45,931  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[11:19:45,931  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[11:20:11,812  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[11:20:11,812  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[11:20:12,623  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[11:20:12,623  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[11:20:12,982  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[11:20:12,982  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[11:20:13,340  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[11:20:13,340  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[11:20:13,684  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[11:20:13,684  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[11:20:18,972  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[11:20:18,988  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[11:20:19,658  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[11:20:19,658  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[11:20:19,986  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[11:20:19,986  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[11:20:20,360  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[11:20:20,360  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[11:20:20,704  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[11:20:20,719  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[11:26:39,837  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[11:26:39,853  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[11:26:41,070  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[11:26:41,070  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[11:26:41,429  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[11:26:41,429  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[11:26:41,803  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[11:26:41,803  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[11:26:42,162  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[11:26:42,162  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[11:26:42,489  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[11:26:42,489  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[11:31:21,687  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[11:31:21,687  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[11:31:22,576  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[11:31:22,576  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[11:31:22,935  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[11:31:22,935  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[11:31:23,278  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[11:31:23,278  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[11:31:23,606  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[11:31:23,606  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[11:31:23,965  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[11:31:23,965  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[11:31:24,292  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[11:31:24,292  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[11:31:24,651  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[11:31:24,651  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[11:32:11,858  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[11:32:11,874  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[11:32:12,888  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[11:32:12,888  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[11:32:13,247  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[11:32:13,247  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[11:32:13,606  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[11:32:13,606  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[11:32:13,933  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[11:32:13,933  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[11:32:14,292  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[11:32:14,292  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[11:32:14,666  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[11:32:14,666  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[11:45:42,868  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[11:45:42,868  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[11:45:44,069  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[11:45:44,069  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[11:45:44,397  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[11:45:44,397  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[11:45:44,787  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[11:45:44,787  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[11:45:45,130  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[11:45:45,130  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[11:45:45,504  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[11:45:45,504  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[11:45:45,832  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[11:45:45,832  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[11:45:46,206  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[11:45:46,206  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[11:46:18,999  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[11:46:18,999  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[11:46:19,841  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[11:46:19,841  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[11:46:20,169  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[11:46:20,169  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[11:46:20,512  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[11:46:20,512  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[11:46:20,887  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[11:46:20,887  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[11:46:21,230  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[11:46:21,230  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[11:46:21,573  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[11:46:21,573  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[11:46:21,979  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[11:46:21,979  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[11:46:22,353  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[11:46:22,353  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[11:46:59,528  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[11:46:59,544  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[11:47:00,355  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[11:47:00,355  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[11:47:00,714  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[11:47:00,714  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[11:47:01,088  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[11:47:01,088  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[11:47:01,447  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[11:47:01,447  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[11:47:01,822  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[11:47:01,822  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[11:47:02,212  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[11:47:02,212  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[11:47:02,570  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[11:47:02,570  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[11:47:02,898  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[11:47:02,898  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[11:47:03,226  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[11:47:03,226  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[11:56:12,593  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[11:56:12,593  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[11:56:13,623  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[11:56:13,623  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[11:56:14,013  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[11:56:14,013  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[11:56:14,403  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[11:56:14,403  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[11:56:14,730  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[11:56:14,730  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[11:56:15,073  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[11:56:15,073  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[11:56:15,463  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[11:56:15,463  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[11:56:15,822  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[11:56:15,822  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[11:56:16,165  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[11:56:16,165  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[11:56:16,524  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[11:56:16,524  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[11:56:16,852  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[11:56:16,852  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[13:57:50,980  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[13:57:50,982  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[13:57:51,986  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[13:57:51,986  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[13:57:52,342  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[13:57:52,342  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[13:57:52,693  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[13:57:52,693  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[13:57:53,028  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[13:57:53,028  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[13:57:53,367  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[13:57:53,368  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[13:57:53,730  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[13:57:53,730  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[13:57:54,896  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[13:57:54,896  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[13:57:56,052  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[13:57:56,052  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[13:57:56,409  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[13:57:56,410  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[13:57:56,739  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[13:57:56,739  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[13:57:57,069  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[13:57:57,070  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[13:57:57,422  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[13:57:57,422  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[14:06:20,224  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[14:06:20,226  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[14:06:21,263  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[14:06:21,264  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[14:06:21,624  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[14:06:21,625  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[14:06:21,996  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[14:06:21,996  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[14:06:22,325  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[14:06:22,325  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[14:06:22,665  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[14:06:22,666  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[14:06:23,025  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[14:06:23,025  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[14:06:24,284  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[14:06:24,285  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[14:06:25,444  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[14:06:25,444  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[14:06:25,801  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[14:06:25,801  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[14:06:26,130  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[14:06:26,130  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[14:06:26,486  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[14:06:26,486  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[14:06:26,841  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[14:06:26,842  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[14:10:28,498  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[14:10:28,500  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[14:10:29,522  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[14:10:29,522  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[14:10:29,856  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[14:10:29,856  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[14:10:30,212  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[14:10:30,213  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[14:10:30,577  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[14:10:30,577  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[14:10:30,918  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[14:10:30,918  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[14:10:31,279  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[14:10:31,279  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[14:10:32,439  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[14:10:32,440  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[14:10:33,582  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[14:10:33,583  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[14:10:33,939  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[14:10:33,939  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[14:10:34,296  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[14:10:34,297  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[14:10:34,626  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[14:10:34,626  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[14:10:34,982  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[14:10:34,983  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[14:10:36,839  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[14:10:36,840  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[14:14:29,758  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[14:14:29,760  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[14:14:30,771  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[14:14:30,772  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[14:14:31,132  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[14:14:31,133  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[14:14:31,490  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[14:14:31,490  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[14:14:31,851  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[14:14:31,852  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[14:14:32,192  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[14:14:32,193  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[14:14:32,528  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[14:14:32,528  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[14:14:33,675  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[14:14:33,676  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[14:14:34,841  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[14:14:34,841  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[14:14:35,171  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[14:14:35,172  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[14:14:35,528  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[14:14:35,528  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[14:14:35,912  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[14:14:35,913  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[14:14:36,241  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[14:14:36,242  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[14:14:38,289  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[14:14:38,289  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[14:15:44,888  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[14:15:44,890  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[14:15:45,701  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[14:15:45,701  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[14:15:46,059  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[14:15:46,060  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[14:15:46,417  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[14:15:46,417  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[14:15:46,775  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[14:15:46,776  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[14:15:47,111  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[14:15:47,111  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[14:15:47,469  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[14:15:47,470  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[14:15:48,714  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[14:15:48,714  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[14:15:49,971  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[14:15:49,971  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[14:15:50,328  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[14:15:50,328  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[14:15:50,658  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[14:15:50,658  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[14:15:51,013  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[14:15:51,014  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[14:15:51,343  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[14:15:51,343  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[14:15:53,517  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[14:15:53,517  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[14:40:56,034  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[14:40:56,036  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[14:40:57,005  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[14:40:57,005  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[14:40:57,367  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[14:40:57,367  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[14:40:57,723  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[14:40:57,724  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[14:40:58,056  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[14:40:58,056  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[14:40:58,398  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[14:40:58,398  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[14:40:58,761  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[14:40:58,761  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[14:41:00,047  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[14:41:00,047  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[14:41:01,289  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[14:41:01,289  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[14:41:01,646  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[14:41:01,647  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[14:41:02,003  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[14:41:02,003  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[14:41:02,333  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[14:41:02,333  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[14:41:02,716  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[14:41:02,717  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[14:41:04,880  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[14:41:04,881  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[14:50:20,421  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[14:50:20,423  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[14:50:22,572  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[14:50:22,573  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[14:50:22,960  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[14:50:22,960  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[14:50:23,344  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[14:50:23,344  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[14:50:23,673  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[14:50:23,674  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[14:50:24,013  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[14:50:24,013  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[14:50:24,375  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[14:50:24,375  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[14:50:25,537  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[14:50:25,537  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[14:50:26,780  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[14:50:26,781  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[14:50:27,137  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[14:50:27,137  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[14:50:27,462  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[14:50:27,463  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[14:50:27,828  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[14:50:27,828  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[14:50:28,184  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[14:50:28,184  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[14:50:30,340  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[14:50:30,341  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[14:51:43,384  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[14:51:43,386  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[14:51:44,208  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[14:51:44,208  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[14:51:44,595  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[14:51:44,596  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[14:51:44,980  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[14:51:44,980  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[14:51:45,310  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[14:51:45,310  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[14:51:45,680  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[14:51:45,681  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[14:51:46,070  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[14:51:46,071  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[14:51:47,314  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[14:51:47,316  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[14:51:48,571  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[14:51:48,571  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[14:51:48,930  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[14:51:48,930  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[14:51:49,313  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[14:51:49,314  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[14:51:49,642  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[14:51:49,642  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[14:51:49,971  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[14:51:49,972  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
+[14:51:52,017  INFO MiriamLink:111] - Address used: http://www.ebi.ac.uk/miriamws/main/MiriamWebServices
+[14:51:52,017  INFO MiriamLink:112] - If this address is not correct, use 'setAddress()' to change it.
